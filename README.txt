@@ -25,7 +25,7 @@ Run:
     ** note: our approach only accepts number of threads that are divisors of NxN where N = num vertices
      * see raw data file provided for a list of divisors for each graph and results
      
-    ** 1 or 0 will be printed at each run to signify corectness of matrix results
+    ** 1 or 0 will be printed at each run to signify correctness of matrix results
      * run (1) Simple parallelization before (2) Parallelization with Thread Pool so that parallel results can be
        compared with serial ones
      * output file saved in outputs folder
